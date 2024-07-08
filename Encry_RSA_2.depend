@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1714231380 source:d:\codeblocks\encry_rsa_2\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<fstream>
+
+1714589733 source:d:\codeblocks\encry_rsa_2\encry_rsa_2\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<fstream>
+
